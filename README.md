@@ -4,7 +4,7 @@ TAMU Spring 2019 team programming contest
 ## Contest Info
 Team Programming competition held by the TAMU Department of Computer Science on Saturday, April 6, 2019, from 1 to 6:30.
 
-This repository holds our team's attempted solutions to the contest problems. There are 16 problems named from A to P. A PDF scan each of the problem's instructions will be included in each subfolder.
+This repository holds our team's attempted solutions to the contest problems. There are 16 problems named from A to P. Each of the problem's instructions can be found in [Problems.pdf](Problems.pdf).
 
 ### Scoring:
 Placed 29/89. See [standings.md](standings.md).
